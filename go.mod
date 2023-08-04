@@ -2,10 +2,7 @@ module github.com/zcubbs/go-containers
 
 go 1.20
 
-require (
-	github.com/docker/docker v24.0.5+incompatible
-	go.uber.org/goleak v1.2.1
-)
+require github.com/docker/docker v24.0.5+incompatible
 
 require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
