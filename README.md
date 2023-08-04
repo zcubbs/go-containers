@@ -1,6 +1,6 @@
 # go-containers: Go Docker Containers package
 
-[![tag](https://img.shields.io/github/tag/zcubbs/go-containerssvg)](https://github.com/zcubbs/go-containers/releases)
+[![tag](https://img.shields.io/github/tag/zcubbs/go-containers)](https://github.com/zcubbs/go-containers/releases)
 ![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.20-%23007d9c)
 [![GoDoc](https://godoc.org/github.com/zcubbs/go-containers?status.svg)](https://pkg.go.dev/github.com/zcubbs/go-containers)
 ![Build Status](https://github.com/zcubbs/go-containers/actions/workflows/test.yaml/badge.svg)
